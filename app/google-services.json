@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "159004709554",
+    "project_id": "expired-date-monitor",
+    "storage_bucket": "expired-date-monitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159004709554:android:da0379c03fc031eadf2fab",
+        "android_client_info": {
+          "package_name": "com.example.expireddatemonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159004709554-g40i8tehufg24iamvcgre6t8uj04f60d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expireddatemonitor",
+            "certificate_hash": "151d9a88c896340d4bd52ed53b7314132e3e266c"
+          }
+        },
+        {
+          "client_id": "159004709554-jc08pimcv5bj1crsp92eotfgp7d2b29m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxuxoL4LWGjr9sCNRO0Cc5Q08lDwR4Gb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159004709554-jc08pimcv5bj1crsp92eotfgp7d2b29m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
